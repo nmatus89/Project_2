@@ -1,3 +1,3 @@
 # Project_2
 
-SNAP program
+Which variables determine SNAP program distribution, economical or political, as well how the desicions affect the beneficiaries of social programs?
